@@ -15,14 +15,6 @@ Google's ML Crash Course is a free, practical introduction to machine learning c
 - **Model Validation** & **Fairness**
 - **Embeddings** & **Large Language Models**
 
-## 📁 Repository Structure
-├── exercises/
-│ ├── 01_linear_regression.ipynb
-│ ├── 02_data_preprocessing.ipynb
-│ ├── 03_neural_networks.ipynb
-│ └── ... (more exercises added progressively)
-└── README.md
-
 ## 🚀 Quick Start
 
 1. **Click any `.ipynb` file** → **"Open in Colab"**

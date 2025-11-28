@@ -16,4 +16,41 @@ Google's ML Crash Course is a free, practical introduction to machine learning c
 - **Embeddings** & **Large Language Models**
 
 ## 📁 Repository Structure
+├── exercises/
+│ ├── 01_linear_regression.ipynb
+│ ├── 02_data_preprocessing.ipynb
+│ ├── 03_neural_networks.ipynb
+│ └── ... (more exercises added progressively)
+└── README.md
 
+## 🚀 Quick Start
+
+1. **Click any `.ipynb` file** → **"Open in Colab"**
+2. **Run cells sequentially** (Shift+Enter)
+3. **Experiment** with the code parameters
+4. **No setup required** - runs in browser!
+
+## 📖 Progress Tracker
+
+| Module             | Status       | Notebook                  |
+|--------------------|--------------|---------------------------|
+| Linear Regression  | ⏳ In Progress | `01_linear_regression.ipynb` |
+| Data Validation    | ⏳ Planned    | `02_data_validation.ipynb` |
+| Neural Networks    | ⏳ Planned    | `03_neural_nets.ipynb`     |
+
+*Note: Files added progressively as course advances*
+
+## 🔗 Official Resources
+
+- 🎥 **Full Course**: [developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)[web:2]
+- 📋 **Exercises List**: [developers.google.com/machine-learning/crash-course/exercises](https://developers.google.com/machine-learning/crash-course/exercises)[web:1]
+- 🛠️ **Colab**: [colab.research.google.com](https://colab.research.google.com)
+
+## 📄 License
+
+Content follows Google's [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) and [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licenses.[web:5]
+
+---
+
+**⭐ Star this repo if helpful!**  
+*Last updated: November 2025*

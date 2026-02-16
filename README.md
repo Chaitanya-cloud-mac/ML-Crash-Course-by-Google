@@ -24,11 +24,7 @@ Google's ML Crash Course is a free, practical introduction to machine learning c
 
 ## 📖 Progress Tracker
 
-| Module             | Status       | Notebook                  |
-|--------------------|--------------|---------------------------|
-| Linear Regression  | ⏳ In Progress | `01_linear_regression.ipynb` |
-| Data Validation    | ⏳ Planned    | `02_data_validation.ipynb` |
-| Neural Networks    | ⏳ Planned    | `03_neural_nets.ipynb`     |
+- Completed all the exercises
 
 *Note: Files added progressively as course advances*
 
@@ -45,4 +41,4 @@ Content follows Google's [CC BY 3.0](https://creativecommons.org/licenses/by/3.0
 ---
 
 **⭐ Star this repo if helpful!**  
-*Last updated: November 2025*
+*Last updated: February 2026*
